@@ -1,0 +1,3 @@
+[submodule "docs/CoreCognition"]
+	path = docs/CoreCognition
+	url = https://github.com/mhjmhj2002/CoreCognition.git
